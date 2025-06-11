@@ -1,5 +1,5 @@
 chromadb==1.0.12
-fitz==0.0.1.dev2
+PyMuPDF==1.23.6
 sentence_transformers==3.0.1
 torch==2.5.1
 numpy==1.26.4
